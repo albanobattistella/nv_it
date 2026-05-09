@@ -6,7 +6,7 @@
 
 This page refers to the
 [novelibre](https://github.com/peter88213/novelibre/) application. 
-You can open it with **Aiuto > ${Online user guide}**.
+You can open it with **Aiuto > Aiuto online**.
 
 Here you will find the most important help pages from the novelibre user manual. 
 More information on installing and uninstalling novelibre, interesting details 
