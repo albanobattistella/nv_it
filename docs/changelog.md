@@ -5,6 +5,14 @@
 ## Changelog
 
 
+### Version 5.55.0
+
+- Update of the UI translations and help pages using the tranlsations by
+Albano Battistella.
+
+The plugin translations need to be completed.
+
+
 ### Version 5.42.2
 
 - Added nv_writer and nv_epub.
