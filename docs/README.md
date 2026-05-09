@@ -46,7 +46,8 @@ utente sono tradotti in italiano.
 
 ## Riconoscimenti
 
-- Le traduzioni dell'interfaccia utente in italiano sono fornite da 
+- Italian translations are provided by
+  [Albano Battistella](https://github.com/albanobattistella) and 
   [Sandro Mattei](https://github.com/oldstonegryzzly).
 - The novelibre logo is made using the free *Pusab* font by Ryoichi Tsunekawa, [Flat-it](http://flat-it.com/).
 - The flag icon is from [Flaticon.com](https://www.flaticon.com/free-icons/flag).
