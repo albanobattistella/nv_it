@@ -7,7 +7,7 @@
 
 ### Version 5.55.0
 
-- Update of the UI translations and help pages using the tranlsations by
+- Update of the UI translations and help pages using the translations by
 Albano Battistella.
 
 The plugin translations need to be completed.
